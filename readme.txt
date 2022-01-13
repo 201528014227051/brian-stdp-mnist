@@ -1,4 +1,4 @@
-Brian2 version of  implementation coming from [https://github.com/peter-u-diehl/stdp-mnist](https://github.com/peter-u-diehl/stdp-mnist)
+### Brian2 version of  implementation coming from [https://github.com/peter-u-diehl/stdp-mnist](https://github.com/peter-u-diehl/stdp-mnist)
 
 This is the code for the paper "Unsupervised learning of digit recognition using spike-timing-dependent plasticity" available at http://journal.frontiersin.org/article/10.3389/fncom.2015.00099/abstract#
 
